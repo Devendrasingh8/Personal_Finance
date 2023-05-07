@@ -1,6 +1,7 @@
 # Personal-Finance
 
 INTRODUCTION
+
 This project was to Recognize and identifying spending patterns to improve personal finance and to make better spending decisions. For this purpose, data set used is compiled using transactions from Bank and Credit Card Statements to build the dataset for analyzing the financial health to improve personal financial decision-making. Also used a budget to calculate how much money is earned, spent, and saved.
 
 Tools used: For this analysis we have used SQL.
@@ -20,6 +21,7 @@ Key Findings #2: Top three categories spent on were:
 Key Findings #3: Saving throughout this time was reduced by $2069.
 
 Analysis
+
 There is total 806 transactions during this period and these transactions are divided using 22 categories and the Ideal Budget Set for the month as below:
 
 ![](https://github.com/Devendrasingh8/Personal_Finance/blob/main/budget.png)
@@ -55,4 +57,5 @@ Percentage of income spent by month was increasing on average.
 ![](https://github.com/Devendrasingh8/Personal_Finance/blob/main/Categories%20that%20have%20out%20spent%20the%20budget..png)
 
 Conclusion
+
 Regularly keeping track of the expenditures might help to get a clear picture of where the money is going and where you'd prefer it to go. It is clear that most of the money is spent on Mortgage & rent, home improvement and credit card payment.
